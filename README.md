@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/f909747486c4bafe50d98275d81b26b3de908e78
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P_K_iBPdOD8WrfZx19yXCJM3LnNxxYi3/view?usp=sharing](https://drive.google.com/file/d/1P_K_iBPdOD8WrfZx19yXCJM3LnNxxYi3/view?usp=sharing)
 
-- ⚡ Fun fact **Jokes Apart But I'm a Good Jocker😊😉**
+- ⚡ Fun fact **Jokes Apart But I'm a Good Coder😊😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
